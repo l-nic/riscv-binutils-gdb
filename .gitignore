@@ -16,7 +16,7 @@
 *.pyc
 *.tmp
 *.a
-
+/build
 .deps
 .libs
 
